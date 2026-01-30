@@ -262,10 +262,11 @@ Mỗi iteration training, patch được áp dụng với các biến đổi ran
 
 ## 👨‍💻 Author
 
-**ReiKage** - NCKH Project 2025-2026
+**ReiKage** & **BaoZ** - NCKH Project 2025-2026
 
 ---
 
 ## 📝 License
 
 Educational purposes only. Use responsibly.
+
